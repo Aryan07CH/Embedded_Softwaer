@@ -1,0 +1,27 @@
+[UART] System Initialized
+
+Tick 0
+
+Tick 1
+
+Tick 2
+[UART] Left Button Pressed
+LED Left: ON
+
+Tick 3
+
+Tick 4
+
+Tick 5
+[UART] Right Button Pressed
+LED Right: ON
+
+Tick 6
+
+Tick 7
+Toggling LEDs if needed...
+
+Tick 8
+
+Tick 9
+Toggling LEDs if needed...
